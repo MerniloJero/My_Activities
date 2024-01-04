@@ -1,0 +1,21 @@
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\bin\Debug\Elderly Information System.exe.config
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\bin\Debug\Elderly Information System.exe
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\bin\Debug\Elderly Information System.pdb
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly Information System.csproj.AssemblyReference.cache
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly Information System.csproj.SuggestedBindingRedirects.cache
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly_Information_System.Properties.Resources.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly Information System.csproj.GenerateResource.cache
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly Information System.csproj.CoreCompileInputs.cache
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly Information System.exe
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly Information System.pdb
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly_Information_System.LoginForm.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly_Information_System.MainForm.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly_Information_System.WelcomeForm.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\bin\Debug\MySql.Data.dll
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly Information System.csproj.CopyComplete
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly_Information_System.Add.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly_Information_System.AllList.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly_Information_System.Elderlist.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly_Information_System.Notification.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly_Information_System.Death.resources
+C:\School Projects\IT Department\Second Year(2023-2024)\IT\Database Final System\Elderly Information System\obj\Debug\Elderly_Information_System.ChangePass.resources
