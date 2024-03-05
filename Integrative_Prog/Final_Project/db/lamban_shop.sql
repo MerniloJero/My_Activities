@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 20, 2024 at 03:12 AM
+-- Generation Time: Mar 05, 2024 at 02:08 AM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -66,6 +66,16 @@ CREATE TABLE `products` (
   `arrival_date` date NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `products`
+--
+
+INSERT INTO `products` (`id`, `name`, `description`, `measurement_type`, `quantity`, `expense_price`, `retail_price`, `arrival_date`) VALUES
+(1, 'umbrella', 'Description for Product 1', 'Pcs', 100, 10.50, 21, '2024-02-24'),
+(2, 'Updated Product', 'This product has been updated.', 'Kilo', 30, 250.50, 35, '2024-03-03'),
+(4, 'plastic', 'Description for Product 4', 'Pcs', 120, 12.99, 26, '2024-02-27'),
+(5, 'Sample Product', 'This is a sample description of the product.', 'Pcs', 20, 200.10, 30, '2024-03-03');
+
 -- --------------------------------------------------------
 
 --
@@ -94,6 +104,13 @@ CREATE TABLE `users` (
   `username` varchar(50) DEFAULT NULL,
   `password` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `users`
+--
+
+INSERT INTO `users` (`id`, `username`, `password`) VALUES
+(1, 'jerold', 'admin');
 
 -- --------------------------------------------------------
 
@@ -155,10 +172,16 @@ ALTER TABLE `workers`
 --
 
 --
+-- AUTO_INCREMENT for table `products`
+--
+ALTER TABLE `products`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+
+--
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
